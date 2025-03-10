@@ -8,9 +8,9 @@ This repository contains a Blender-based simulation framework for Underwater Lin
 - 🔬 Provide configurable parameters for optical properties and scene geometry
 
 ## 😶‍🌫️ ToDo
-- [ ] Python script for load calibration board
-- [ ] Python script for load Scene
-- [ ] Python Script for configure Camera (maybe Stereo)
+- [x] Python script for load calibration board
+- [x] Python script for load Scene
+- [x] Python Script for configure Camera (include Stereo)
 - [ ] Python Script for Refraction and 3D reconstruction
 
 ## 😸 Comming soon. 努力工作中
