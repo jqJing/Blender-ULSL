@@ -13,7 +13,11 @@ This repository contains a Blender-based simulation framework for Underwater Lin
 - [x] Python Script for configure Camera (include Stereo)
 - [x] Python Script for Refraction and 3D reconstruction
 - [x] Light Reflection
-- [ ] Line Laser Source Generation
+- [x] Line Laser Source Generation
+- [ ] bundaryCheck & ray_cast
+- [ ] Galvanometer Simulation
+- [ ] laser illumination effect
+
 
 ## 😸 Comming soon. 努力工作中
 
