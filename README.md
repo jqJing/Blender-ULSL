@@ -15,8 +15,9 @@ This repository contains a Blender-based simulation framework for Underwater Lin
 - [x] Light Reflection
 - [x] Line Laser Source Generation
 - [ ] bundaryCheck & ray_cast
-- [ ] Galvanometer Simulation
-- [ ] laser illumination effect
+- [x] Galvanometer Simulation
+- [ ] ~~laser illumination effect~~
+- [x] create light sphere
 
 
 ## 😸 Comming soon. 努力工作中
